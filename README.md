@@ -7,7 +7,7 @@
        - Surveys
        - Try to combine data from multiple data source
        
-    2. **Feature Engineering**
+   2. **Feature Engineering**
        - Handling Missing Values
           - Reasons of missing values: people hesitate to put down the information, error in the data, survey data is not that valid.
           - Types of missing data: 
